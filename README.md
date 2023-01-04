@@ -22,7 +22,7 @@ I created this project because I couldn't find a good online example using only 
 ## Acknowledgments
 
 * Project setup is a simplified version of the [Gynzy](https://www.gynzy.com) webcomponent setup
-   * https://github.com/gynzy (project isn't public)
+   * https://github.com/gynzy (private repository)
 * Todo example app code is based on this tutorial
    * https://vaadin.com/blog/litelement-and-pwa
 * Bare bones example from Rollup
