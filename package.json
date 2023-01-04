@@ -5,7 +5,7 @@
   "scripts": {
     "start": "rollup -c rollup.config.mjs --watch",
     "build": "rollup -c rollup.config.mjs",
-	"lint": "eslint . --ext .ts"
+    "lint": "eslint . --ext .ts"
   },
   "devDependencies": {
     "@babel/core": "^7.20.7",
@@ -16,6 +16,7 @@
     "@typescript-eslint/eslint-plugin": "^5.48.0",
     "@typescript-eslint/parser": "^5.48.0",
     "eslint": "^8.31.0",
+    "prettier": "^2.8.1",
     "rollup": "^3.9.0",
     "rollup-plugin-copy": "^3.4.0",
     "rollup-plugin-delete": "^2.0.0",
